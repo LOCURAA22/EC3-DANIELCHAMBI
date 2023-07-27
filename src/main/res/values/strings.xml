@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EJ2_CHAMBIDANIEL</string>
+    <string name="name">Salva el MUNDO</string>
+    <string name="frase">Forma parte de esta gran comunidad\n para salvar nuestro planeta\n Sé parte del cambio</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="foto">Tomate una foto</string>
+    <string name="mapa">Dale Click y Ubícanos </string>
+    <string name="title">Bienvenidos a Unidos por el Cambio</string>
+    <string name="API_KEY">AIzaSyAb3xyqjt6-VfU2jFk9j5NMnL7A1GYCC78</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

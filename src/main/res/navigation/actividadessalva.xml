@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/actividadessalva"
+    app:startDestination="@id/salListFragment">
+
+    <fragment
+        android:id="@+id/salFavoriteFragment"
+        android:name="com.daniel.ej2_chambidaniel.ui.fragments.SalFavoriteFragment"
+        android:label="fragment_sal_favorite"
+        tools:layout="@layout/fragment_sal_favorite" />
+    <fragment
+        android:id="@+id/salListFragment"
+        android:name="com.daniel.ej2_chambidaniel.ui.fragments.SalListFragment"
+        android:label="fragment_sal_list"
+        tools:layout="@layout/fragment_sal_list" />
+    <fragment
+        android:id="@+id/salInfoFragment"
+        android:name="com.daniel.ej2_chambidaniel.ui.fragments.SalInfoFragment"
+        android:label="fragment_sal_info"
+        tools:layout="@layout/fragment_sal_info" />
+</navigation>
